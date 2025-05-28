@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab002_Java {
+public class Lab003_Java {
 
     public static void main(String[] args) {
 
