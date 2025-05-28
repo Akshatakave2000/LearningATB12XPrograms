@@ -8,6 +8,7 @@ public class Lab008_Comman_Math {
         System.out.println(2/2);
         System.out.println(2-2);
         System.out.println(3/2);
+        System.out.println(10/0); // java.lang.ArithmeticException: / by zero
 
 
     }
